@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Can you survive the zombie apocalypse?",
+      "name": "Minecraft Romero",
+      "uuid":"30bc2800-2277-478b-b568-e8d0f64e3a20",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "Minecraft Romero Module",
+            "type": "data",
+            "uuid": "3cd7ad3c-27e8-4e18-98e0-c330ec2fa0de",
+            "version": [1, 0, 0]
+        }
+      ]
+}
